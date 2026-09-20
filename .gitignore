@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
+work/
+baseline*.json
+filter-result.json
+.env
+.env.*
